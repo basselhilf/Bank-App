@@ -1,0 +1,16 @@
+#root{
+  margin-left: 20%;
+  margin-top: 10%;
+}
+
+#main-container{
+width: 800px;
+
+
+}
+
+#main-search{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+
+}
